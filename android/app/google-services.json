@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "44329246590",
+    "project_id": "cotani-gdsc",
+    "storage_bucket": "cotani-gdsc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44329246590:android:548cae52fbee58ea255d2f",
+        "android_client_info": {
+          "package_name": "com.example.cotani_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCbu0AtAY2of-1ahnoGLTLaedwbUg8RuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
